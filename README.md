@@ -7,13 +7,13 @@
 
 <div align="center"> <img src="#" alt="Imagem Projeto" width="600"> </div> 
 
-## :information_source: Do que se trata o projeto
+## :bulb: Do que se trata o projeto
 Página de um joguinho de adivinhação.
 
 ## :computer: Motivação 
 Evento promovido pela Rocketseat com uma semana de aulas para devs iniciantes saírem do zero, aprender fundamentos e construir um portifólio. Período do evento: de 05 a 13 de junho de 2022.
 
-## :rocket: Tecnologias Utilizadas 
+## :battery: Stack Utilizada
 - HTML
 - CSS
 - Javascript
