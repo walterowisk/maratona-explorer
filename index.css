@@ -4,8 +4,8 @@
 }
 
 body {
-    background-color: #282a36;
-    color: white;
+    background-color: #1B0430;
+    color: #1DD3B0;
     text-align: center;
     font-family: sans-serif;
 }
@@ -42,8 +42,8 @@ input {
 
 button {
     border: none;
-    background-color: #ff5555;
-    color: white;
+    background-color: #1DD3B0;
+    color: #1B0430;
     transition: filter .2s;
 }
 
