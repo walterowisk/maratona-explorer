@@ -49,3 +49,9 @@ function fazerPergunta() {
       buttonPerguntar.removeAttribute("disabled")
   }, 3000)
 }
+
+
+function limparPergunta() {
+  inputPergunta.value = "";
+  inputPergunta.focus();
+}
