@@ -16,6 +16,10 @@ body {
     font-family: Amaranth, sans-serif;
 }
 
+img {
+    max-width: 16rem;
+}
+
 #container {
     margin-top: 3rem;
     width: 88%;
