@@ -2,16 +2,13 @@
 
 <h2  align="center">Rocketseat</h2>
 
-  
-  
 
+<div  align="center"> <img  src="https://i.imgur.com/u2i5MAL.gif"  alt="Gif da Página"  width="680"> </div>
+
+---
 <p  align="center"> <a  href="https://opensource.org/licenses/MIT"> <img  src="https://img.shields.io/badge/License-MIT-blue.svg"  alt="License MIT"> </a></p>
 
-  
-
-<div  align="center"> <img  src="#"  alt="Imagem Projeto"  width="600"> </div>
-
-  
+--- 
 
 ## :bulb: Do que se trata o projeto
 
