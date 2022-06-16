@@ -13,7 +13,7 @@
 
 ## :bulb: Do que se trata o projeto
 
-Landing Page contendo uma espécie de jogo de adivinhação onde o usuário insere uma pergunta e a página retorna uma resposta aleatória.
+Página web contendo uma espécie de jogo de adivinhação onde o usuário insere uma pergunta e a página retorna uma resposta aleatória.
 
   
 
@@ -22,7 +22,7 @@ Landing Page contendo uma espécie de jogo de adivinhação onde o usuário inse
 Evento promovido pela Rocketseat com uma semana de aulas para devs iniciantes saírem do zero, aprender fundamentos e construir um portifólio. Período do evento: de 05 a 13 de junho de 2022.
 
 ## :wrench: Alterações & Melhorias
-Após reproduzir a landing page exatamente como foi desenvolvida na maratona resolvi fazer minhas estilizações para fins de treinamento. As mudanças foram as seguintes:
+Após reproduzir o projeto exatamente como foi desenvolvido na maratona resolvi fazer minhas estilizações para fins de treinamento. As mudanças foram as seguintes:
 * Alteração do fundo para o `background-color: #1B0430`;
 * Troca da `font-family` de sans-serif padrão para Amaranth;
 * Alteração da cor da fonte de branco para `color: #1DD3B0`; 
