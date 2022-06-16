@@ -1,7 +1,8 @@
+<div align="center">
 <h1  align="center">Maratona Explorer</h1>
-
-<h2  align="center">Rocketseat</h2>
-
+<h2>Rocketseat</h2>
+<a><img  src="https://img.shields.io/badge/Boosting%20people-ROCKETSEAT-blueviolet"  alt="Badge Rocketseat"> </a>
+</div>
 
 <div  align="center"> <img  src="https://i.imgur.com/u2i5MAL.gif"  alt="Gif da Página"  width="680"> </div>
 
